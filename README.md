@@ -31,7 +31,7 @@ Interactive Excel dashboard with:
 - 3 slicers/filters for easy exploration  
 - Visualizations of overall sales performance and customer engagement metrics  
 
-How to Run this Project:
+**How to Run this Project:**
 1. Open the Excel file (.xlsx)
 2. **Click "Enable Editing"** at the top to activate interactive features
 3. Use the dashboard slicers/filters to explore sales trends and customer behavior
